@@ -96,9 +96,9 @@ document.addEventListener("DOMContentLoaded", function (event) {
                 icon: yellowIcon,
             },
             {
-                name: "Cao đẳng Việt Hàn",  
-                left: 21.00446583821854,
-                right: 107.06214063734242,
+                name: "Cao đẳng Việt-Hàn",  
+                left: 21.020135218958544, 
+                right: 106.99819305624648,
                 href: '',
                 type: 'local',
                 icon: yellowIcon,
