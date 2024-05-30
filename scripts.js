@@ -73,6 +73,9 @@ document.addEventListener("DOMContentLoaded", function (event) {
         const blueIcon = new L.icon({
             iconUrl: './blue.png',
         });
+          const xdIcon = new L.icon({
+            iconUrl: './caodangxd.png',
+        });
 
         const districtCoords = [
           const districtCoords = [
@@ -122,7 +125,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
                 right: 106.71853183205916,
                 href: '',
                 type: 'local',
-                icon: redIcon,
+                icon: xdIcon,
             },
             {
                 name: "Cao đẳng Nông lâm Đông Bắc", 
